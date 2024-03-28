@@ -37,7 +37,15 @@ This repo is dedicated to the Infrastructure Working Group in PyTorch
 Any communication with the Infrastructure Working Group happens via public mailing list and everyone is
 welcome to join our open discussions.
 
+To request permissions, please contact LFIT via *[Support](https://support.linuxfoundation.org/)*
+
 * Maillist: https://lists.pytorch.org/g/Infrastructure-Working-Group
+
+* Community Slack channels:
+
+  * *pytorch-ci-runners-engineering*: Please only join this channel for active contribution participation or code review.
+  * *pytorch-infra*: Overall Pytorch Infrastructure communication, questions and updates.
+
 
 ## Meetings
 
